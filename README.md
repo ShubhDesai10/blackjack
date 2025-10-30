@@ -16,11 +16,6 @@ Play directly in your terminal — no GUI or IDE required.
 
 ---
 
-## 🧩 Requirements
-
-- Python **3.8+**
-- The `colorama` package (for colorful output)
-
 Install dependencies with:
 
 ```bash
